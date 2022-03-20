@@ -1,0 +1,165 @@
+
+[
+    {
+        "id":1,
+        "image": "./images/image1.png",
+        "name": "Nike",
+        "price": 2400.00,
+        "star":"./images/Star.png",
+        "rating": 3.2,
+        "delivery": "Today"
+    },
+    {
+        "id":2,
+        "image": "./images/image2.png",
+        "name": "Adidas",
+        "price": 2000.00,
+        "star":"./images/Star.png",
+        "rating": 4.0,
+        "delivery": "Today"
+    },
+    {
+        "id":3,
+        "image": "./images/image3.png",
+        "name": "Reebok",
+        "price": 3200.00,
+        "star":"./images/Star.png",
+        "rating": 2.5,
+        "delivery": "Tommorow"
+    },
+    {
+        "id":4,
+        "image": "./images/image1.png",
+        "name": "Gucci",
+        "price": 1800.00,
+        "star":"./images/Star.png",
+        "rating": 3.9,
+        "delivery": "Tommorow"
+    },
+    {
+        "id":5,
+        "image": "./images/image2.png",
+        "name": "D&G",
+        "price": 2500.00,
+        "star":"./images/Star.png",
+        "rating": 3.7,
+        "delivery": "Today"
+    },
+    {
+        "id":6,
+        "image": "./images/image3.png",
+        "name": "Action",
+        "price": 3600.00,
+        "star":"./images/Star.png",
+        "rating": 4.8,
+        "delivery": "Tommorow"
+    },
+    {
+        "id":7,
+        "image": "./images/image1.png",
+        "name": "Nike",
+        "price": 2200.00,
+        "star":"./images/Star.png",
+        "rating": 5.0,
+        "delivery": "Today"
+    },
+    {
+        "id":8,
+        "image": "./images/image2.png",
+        "name": "Adidas",
+        "price": 3000.00,
+        "star":"./images/Star.png",
+        "rating": 4.0,
+        "delivery": "Today"
+    },
+    {
+        "id":9,
+        "image": "./images/image3.png",
+        "name": "Reebok",
+        "price": 4200.00,
+        "star":"./images/Star.png",
+        "rating": 3.9,
+        "delivery": "Tommorow"
+    },
+    {
+        "id":10,
+        "image": "./images/image1.png",
+        "name": "Gucci",
+        "price": 2800.00,
+        "star":"./images/Star.png",
+        "rating": 2.5,
+        "delivery": "Tommorow"
+    },
+    {
+        "id":11,
+        "image": "./images/image2.png",
+        "name": "D&G",
+        "price": 2700.00,
+        "star":"./images/Star.png",
+        "rating": 5.03,
+        "delivery": "Today"
+    },
+    {
+        "id":12,
+        "image": "./images/image3.png",
+        "name": "Action",
+        "price": 2400.00,
+        "star":"./images/Star.png",
+        "rating": 4.8,
+        "delivery": "Tommorow"
+    },
+    {
+        "id":13,
+        "image": "./images/image1.png",
+        "name": "Nike",
+        "price": 2300.00,
+        "star":"./images/Star.png",
+        "rating": 4.8,
+        "delivery": "Today"
+    },
+    {
+        "id":14,
+        "image": "./images/image2.png",
+        "name": "Adidas",
+        "price": 2700.00,
+        "star":"./images/Star.png",
+        "rating": 4.0,
+        "delivery": "Today"
+    },
+    {
+        "id":15,
+        "image": "./images/image3.png",
+        "name": "Reebok",
+        "price": 3500.00,
+        "star":"./images/Star.png",
+        "rating": 3.9,
+        "delivery": "Tommorow"
+    },
+    {
+        "id":16,
+        "image": "./images/image1.png",
+        "name": "Gucci",
+        "price": 1900.00,
+        "star":"./images/Star.png",
+        "rating": 2.5,
+        "delivery": "Tommorow"
+    },
+    {
+        "id":17,
+        "image": "./images/image2.png",
+        "name": "D&G",
+        "price": 2700.00,
+        "star":"./images/Star.png",
+        "rating": 3.7,
+        "delivery": "Today"
+    },
+    {
+        "id":18,
+        "image": "./images/image3.png",
+        "name": "Action",
+        "price": 2400.00,
+        "star":"./images/Star.png",
+        "rating": 4.8,
+        "delivery": "Tommorow"
+    }
+]

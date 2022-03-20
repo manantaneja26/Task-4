@@ -1,0 +1,44 @@
+/* Content Begins*/
+.centerdiv
+{
+    background-color: white;
+    width: 100%;
+    min-height: 200px;
+}
+.centerdiv h1
+{
+    text-align: center;
+    font-size: 80px;
+    font-weight: 900;
+}
+.subdiv
+{
+    margin: 0% 20%;
+    text-align: center;
+
+}
+/* Content Ends */
+/* SearchBar Begins */
+.searchbar input
+{
+    margin: 0%;
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+}
+.searchbar button
+{
+    background-color: orange; /* Green */
+    border: 2px solid black;
+    color: white;
+    margin: 0%;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+/* SearchBar Ends */
